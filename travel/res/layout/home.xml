@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AbsoluteLayout
+	android:id="@+id/widget43"
+	android:layout_width="fill_parent"
+	android:layout_height="fill_parent"
+	xmlns:android="http://schemas.android.com/apk/res/android">
+<Button
+	android:id="@+id/widget46"
+	android:layout_width="80dp"
+	android:layout_height="wrap_content"
+	android:text="@string/getf"
+	android:layout_x="160dp"
+	android:layout_y="261dp" />
+<TextView
+	android:id="@+id/widget48"
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content"
+	android:text="@string/from"
+	android:layout_x="99dp"
+	android:layout_y="51dp" />
+<TextView
+	android:id="@+id/widget49"
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content"
+	android:text="@string/to"
+	android:layout_x="102dp"
+	android:layout_y="152dp" />
+
+<Button
+    android:id="@+id/widget47"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_x="242dp"
+    android:layout_y="92dp"
+    android:text="@string/button" />
+
+<EditText
+    android:id="@+id/widget44"
+    android:layout_width="222dp"
+    android:layout_height="wrap_content"
+    android:layout_x="14dp"
+    android:layout_y="84dp"
+    android:textSize="18sp"
+    android:inputType="text"/>
+<EditText
+    android:id="@+id/widget45"
+    android:layout_width="216dp"
+    android:layout_height="wrap_content"
+    android:layout_x="17dp"
+    android:layout_y="186dp"
+    android:textSize="18sp" 
+    android:inputType="text">
+
+    <requestFocus />
+</EditText>
+<TextView
+    android:id="@+id/widget50"
+    android:layout_width="148dp"
+    android:layout_height="68dp"
+    android:layout_x="42dp"
+    android:layout_y="348dp" />
+
+
+
+</AbsoluteLayout>

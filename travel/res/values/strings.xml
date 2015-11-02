@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, TravelActivity!</string>
+    <string name="app_name">Travel</string>
+    <string name="map_name">Map</string>
+    <string name="splash_screen">Splash Screen</string>
+    <string name="mapview_name">MapTabView</string>
+    <string name="tab1">This is tab1</string>
+    <string name="tab2">This is tab2</string>
+	<string name="tab3">This is tab3</string>
+    <string name="getf">Get Fare</string>
+    <string name="from">From</string>
+	<string name="to">To</string>
+	<string name="button">Button</string>
+</resources>
